@@ -1,8 +1,9 @@
-#Bash oneliners description
 
-1. am-ps to check how much memory eat concrete proccess
+**#Bash oneliners description**
 
-2. duu to constant check increasing of filesize
+1. **am-ps** to check how much memory eat concrete proccess
 
-3. srt-ps to sort processes by the most memory-consuming
+2. **duu** to constant check increasing of filesize
+
+3. **srt-ps** to sort processes by the most memory-consuming
 
