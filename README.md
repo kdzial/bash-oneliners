@@ -1,13 +1,16 @@
 
 **#Bash oneliners description**
 
-1. **am-ps** to check how much memory eat concrete proccess
 
-2. **chck-ind** to download and next check index.html for IP connected with indexing url
+1. **adaclog.sh** to check tries to access /admin path 
 
-3. **duu** to constant check increasing of filesize
+2. **am-ps** to check how much memory eat concrete proccess
 
-4. **logsort** to sort most uses IP in access log
+3. **chck-ind** to download and next check index.html for IP connected with indexing url
 
-5. **srt-ps** for sort processes by the most memory-consuming
+4. **duu** to constant check increasing of filesize
+
+5. **logsort** to sort most uses IP in access log
+
+6. **srt-ps** for sort processes by the most memory-consuming
 
