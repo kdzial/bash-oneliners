@@ -6,7 +6,7 @@
 
 2. **am-ps** to check how much memory eat concrete proccess
 
-3. **chck-ind** to download and next check index.html for IP connected with indexing url
+3. **chck-ind** to download and then check index.html for IP connected with indexing url
 
 4. **duu** to constant check increasing of filesize
 
