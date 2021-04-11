@@ -9,5 +9,5 @@
 
 4. **logsort** to sort most uses IP in access log
 
-5.**srt-ps** for sort processes by the most memory-consuming
+5. **srt-ps** for sort processes by the most memory-consuming
 
