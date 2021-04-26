@@ -14,3 +14,4 @@
 
 6. **srt-ps** for sort processes by the most memory-consuming
 
+7. **f-ssh** to check folders with .ssh
