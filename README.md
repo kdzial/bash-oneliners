@@ -10,10 +10,10 @@
 
 4. **duu** to constant check increasing of filesize
 
-5. **logsort** to sort most uses IP in access log
+5. **f-ssh** to check folders with .ssh
 
-6. **srt-ps** for sort processes by the most memory-consuming
+6. **iptcp** for extracting IP and port from .pcap dump
 
-7. **f-ssh** to check folders with .ssh
+7. **logsort** to sort most uses IP in access log 
 
-8. **iptcp** for extracting IP and port from .pcap dump
+8. **srt-ps** for sort processes by the most memory-consuming
