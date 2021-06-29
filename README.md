@@ -10,7 +10,7 @@
 
 4. **duu** to constant check increasing of filesize
 
-5. **f-ssh** to check folders with .ssh
+5. **f-ssh** to find folders with .ssh
 
 6. **iptcp** for extracting IP and port from .pcap dump
 
